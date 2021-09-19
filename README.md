@@ -1,11 +1,10 @@
 ### Welcome! 👋
 
-- 👨 I'm a freelance software engineer with  12+ years of xp in it
+- 👨 I'm a freelance software engineer with 13+ years of xp in it
 - 🎯 I'm focused on building the right software, done right
 - ⚒️ I help teams to adopt craft and flow best practices
 - 🐍 I work a lot with python but I can switch easily
-- 🏠 I work from home since the beginning of the year and I'll continue for the coming years
-- 🌱 I’m currently doing Advent Of Code 2020 - this is fun 🔥
+- 🏠 WFH since Jan 2020
 
 <!-- - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
