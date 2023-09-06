@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-- 👨 I'm a freelance software engineer with 13+ years of xp in it
+- 👨 I'm a freelance software engineer with 15+ years of xp in it
 - 🎯 I'm focused on building the right software, done right
 - ⚒️ I help teams to adopt craft and flow best practices
 - 🐍 I work a lot with python but I can switch easily
